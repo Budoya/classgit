@@ -1,0 +1,20 @@
+o uso do github desktop é muito bom para projetos mais longos e de dificil manuseio tanto para dar pull nos arquivos
+quanto para enviar os commits
+
+git init inicia o repositorio no github
+
+git status - verifica commits e branch atual do projeto
+
+git add - adiciona arquivos especificos para ser feito o commit
+git add. adiciona todos os arquivos
+
+git commit envia para a nuvem 
+git commit -m"mensagem para todos sobre o commit atual"
+
+git rm-cached - remove o comando git add
+
+git log - mostra os commits e de quem veio
+
+git diff - modificacoes q estao pendentes
+
+git restor - famoso crtl + z retorna ao estado de ultimo commit do arquivo especificado
