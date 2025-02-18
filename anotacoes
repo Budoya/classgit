@@ -18,3 +18,25 @@ git log - mostra os commits e de quem veio
 git diff - modificacoes q estao pendentes
 
 git restor - famoso crtl + z retorna ao estado de ultimo commit do arquivo especificado
+
+para mais especificacoes de como escrever commits melhores
+acessar site conventional commits
+
+branch podendo ter varios nomes
+porem seus usos variam das funcionalidades de fixar, main e features
+
+git abort marge - auto explicativo, muito usado para conflitos de merge(mesclagem)
+porem recomendacase dependendo do caso claro resolve los e finalizar por conta propria
+aproveitar das funcionalidades nativas do vscode ou outra ide que se estiver utilizando
+
+formas de se evitar conflitos de merge
+comunicação claro e consiza com seu time/equipe
+faca pulls frequentes 
+faca commits constantemente e pequenos assim mantendo o codigo limpo
+
+repositorios remotos no github
+caso nao haja um repositorio em sua maquina use o comando git clone url-do-repositorio
+
+para enviar dados para o repositorio comando git push nome-repositorioremoto nome-da-branch
+
+sincronizar o repositorio atual com o do git comando git pull nome-repositorioremoto nome-da-branch
